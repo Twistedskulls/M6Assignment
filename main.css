@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+nav ul{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	background-color:rgba(176,59,121,1.00);
+	display: block;
+	text-align: center;
+	float: right;
+	
+}
